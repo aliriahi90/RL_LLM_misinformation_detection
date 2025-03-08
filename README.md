@@ -1,0 +1,2 @@
+# RL_LLM_misinformation_detection
+ # Misinformation detection at healthcare mews  This project explores the fine-tuning and reinforcement learning (RLHF) of large language models (LLMs) for misinformation detection at healthcare mews. The workflow includes standard fine-tuning, reinforcement learning with human feedback (RLHF) using different optimization strategies, and comparative experiments with BERT-based models as baselines. The datasets primarily focus on misinformation at healthcare news. During this project, we used the following LLMs:
